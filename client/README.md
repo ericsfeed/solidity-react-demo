@@ -1,3 +1,8 @@
+### Run the client for the demo
+
+cd to the 'client' folder.
+Use 'npm run start'
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
